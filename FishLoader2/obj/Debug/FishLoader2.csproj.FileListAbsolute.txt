@@ -1,0 +1,12 @@
+c:\source\FishLoader2\FishLoader2\FishLoader2\bin\Debug\FishLoader2.exe.config
+c:\source\FishLoader2\FishLoader2\FishLoader2\bin\Debug\FishLoader2.exe
+c:\source\FishLoader2\FishLoader2\FishLoader2\bin\Debug\FishLoader2.pdb
+c:\source\FishLoader2\FishLoader2\FishLoader2\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+c:\source\FishLoader2\FishLoader2\FishLoader2\bin\Debug\MySql.Data.dll
+c:\source\FishLoader2\FishLoader2\FishLoader2\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+c:\source\FishLoader2\FishLoader2\FishLoader2\obj\Debug\FishLoader2.csprojResolveAssemblyReference.cache
+c:\source\FishLoader2\FishLoader2\FishLoader2\obj\Debug\FishLoader2.exe
+c:\source\FishLoader2\FishLoader2\FishLoader2\obj\Debug\FishLoader2.pdb
+C:\source\Fish_Loader_2\FishLoader2\bin\Debug\FishLoader2.exe.config
+C:\source\Fish_Loader_2\FishLoader2\obj\Debug\FishLoader2.exe
+C:\source\Fish_Loader_2\FishLoader2\obj\Debug\FishLoader2.pdb
